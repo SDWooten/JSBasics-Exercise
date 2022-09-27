@@ -64,8 +64,3 @@ var c = 4;
 var u = m + c;
 console.log(u);
 
-// WITH LET
-// let m = 25;
-// let c = 4;
-// let u = m + c;
-// console.log(u);
